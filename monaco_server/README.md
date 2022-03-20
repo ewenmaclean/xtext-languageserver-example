@@ -5,7 +5,7 @@ npm install --global yarn
 yarn
 ```
 
-then in the example dir run
+then in the server dir run
 
 ```
 yarn prepare
